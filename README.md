@@ -30,6 +30,9 @@ Create a `.gitignore` file and add the following
 You can then execute the following notebooks in Github codespaces or Google Colab.
 
 
+If you are using Google Colab, add your OpenAI API key to a variable named `OPENAI_API_KEY` in the secrets tab of Google Colab.
+
+
 ## Files
 
 <!--
