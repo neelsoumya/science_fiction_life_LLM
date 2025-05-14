@@ -58,6 +58,10 @@ https://github.com/neelsoumya/science_fiction_LLM/blob/main/deep_research_agent_
 
 Accelerate Programme for Scientific Discovery
 
+## Citation
+
+Manuscript forthcoming
+
 ## Contact
 
 Soumya Banerjee
